@@ -1,0 +1,1 @@
+const response = axios.get('http://swapi.co/api/planets/')

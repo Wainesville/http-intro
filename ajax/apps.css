@@ -1,0 +1,13 @@
+body{
+background-color: pink;
+}
+
+p{
+    font-size: 3.5rem;
+    border: 2rem solid lightblue;
+}
+
+h1{
+    color:lightblue;
+    background-color: rosybrown;
+}
