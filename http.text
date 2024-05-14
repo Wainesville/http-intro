@@ -1,0 +1,20 @@
+In your own terms, define the following terms:
+
+- What is HTTP? Hyper TExt Transfer Protocol- how users send and recieve information with a server
+
+- What is a URL? Uniform Resource Locator, Resourse's internet address
+
+- What is DNS? Domain Name System, converts human language into IP address.
+
+- What is a query string?  (?Key=Value&...) this string is used to trasfer the key and vale across a URL.
+
+- What are two HTTP verbs and how are they different?  Get (recieves data from server) and Post ( change data sent to server)
+
+- What is an HTTP request? This is a request from client to server for html.
+
+- What is an HTTP response? this is a response from server to client.
+
+- What is an HTTP header? Give a couple examples of request and response headers you have seen. This providdes additional info from request and response. Eamples - host, accept, cookie, content type, last modified, set cookie.
+
+- What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser? A simplified version of it is that the url turn to an IP address, Request IP with headers is sent, the server respondes with the status code, the DOM is created from the HTML that is return by the browser, any other resources sent along go through the same process and rthan are added along.
+
